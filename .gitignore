@@ -1,0 +1,6 @@
+.env
+.venv
+documentation/
+example_db/
+tests/
+__pycache__/
